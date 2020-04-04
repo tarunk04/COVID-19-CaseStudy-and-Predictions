@@ -1,7 +1,7 @@
 # COVID-19-CaseStudy-and-Predictions [![License](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/tarunk04/COVID-19-CaseStudy-and-Predictions/blob/master/LICENSE)
 This repository is a case study, analysis, and visualization of COVID-19 Pandemic spread along with prediction models.
 # Open to All
-If you want to contribute to the notebook or any feedback and suggestions are most welcome. You can contact me on <b>[LinkedIn](https://www.linkedin.com/in/tarun-kumar-iit-ism/) </b>as well.
+If you want to contribute to the notebook or any feedback and suggestions are most welcome. 
  
 # Kaggle
 [Follow me on Kaggle](https://www.kaggle.com/tarunkr)<br>
