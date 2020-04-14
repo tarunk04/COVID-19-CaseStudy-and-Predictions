@@ -46,18 +46,18 @@ or click `Download ZIP` in right panel of repository and extract it.
 Visualization Preview
 ================
 
-![COIVD-19-World](output/COIVD-19-World.png)
-![Trend Comparison with India (confirmed)](output/Trend%20Comparison%20with%20India%20(confirmed).png)
-![China vs Rest of the world](output/China%20vs%20Rest%20of%20the%20world.png)
+![COIVD-19-World](https://github.com/tarunk04/COVID-19-CaseStudy-and-Predictions/blob/master/v61/output/COIVD-19-World.png)
+![Daily Cases](https://github.com/tarunk04/COVID-19-CaseStudy-and-Predictions/blob/master/v61/output/daily%20confirmed%20cases%20global.png)
+![Trend Comparison with India (confirmed)](https://github.com/tarunk04/COVID-19-CaseStudy-and-Predictions/blob/master/v61/output/Trend%20Comparison%20with%20India%20(confirmed).png)
 
 Prediction Preview
 ================
 Global Conformed Case Prediction
-![Prediction Curve-Confirmed](output/Prediction%20Curve-Confirmed.png)
+![Prediction Curve-Confirmed](https://github.com/tarunk04/COVID-19-CaseStudy-and-Predictions/blob/master/v61/output/Prediction%20Curve-Confirmed.png)
 
 ### Prediction table
 Prediction using the ML model for both global confirmed cases and deaths.<br>
-![Prediction _table](output/Prediction_table.png)
+![Prediction _table](https://github.com/tarunk04/COVID-19-CaseStudy-and-Predictions/blob/master/v61/2020-04-15%2003_10_17-COVID-19%20Case%20Study%20-%20Analysis%2C%20Viz%20%26%20Comparisons%20_%20Kaggle.png)
 
 <b>To get full insights and visualization see the notebook on KAGGLE [View Latest Version Notebook](https://www.kaggle.com/tarunkr/covid-19-case-study-analysis-viz-comparisons) </b>
 # Authors
