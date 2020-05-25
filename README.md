@@ -64,8 +64,8 @@ Prediction using the ML model for both global confirmed cases and deaths.<br>
 Tarun Kumar
 
 #### Authors' Note:<br>
-The author has tried to get the best result using the dataset. The author is not responsible for any misuse. Any commercial use of the code is not permissible. Read Licence carefully.
+The author has tried to get the best result using the dataset. The author is not responsible for any misuse. Read Licence carefully.
 If you want to contribute to the notebook or any feedback and suggestions are most welcome.
 
-# Licence
+# License
 The MIT License, see the included, see the [License](https://github.com/tarunk04/COVID-19-CaseStudy-and-Predictions/blob/master/LICENSE) file.
