@@ -4,8 +4,8 @@ This repository is a case study, analysis, and visualization of COVID-19 Pandemi
 If you want to contribute to the notebook or any feedback and suggestions are most welcome. 
  
 # Kaggle
-[Follow me on Kaggle](https://www.kaggle.com/tarunkr)<br>
-[View Latest Version](https://www.kaggle.com/tarunkr/covid-19-case-study-analysis-viz-comparisons)
+[Follow me on Kaggle](https://www.kaggle.com/tarunk04)<br>
+[View Latest Version](https://www.kaggle.com/tarunk04/covid-19-case-study-analysis-viz-comparisons)
 
 Silent Features 
 ================
