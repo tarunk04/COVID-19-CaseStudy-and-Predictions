@@ -60,6 +60,10 @@ Prediction using the ML model for both global confirmed cases and deaths.<br>
 ![Prediction _table](https://github.com/tarunk04/COVID-19-CaseStudy-and-Predictions/blob/master/v61/2020-04-15%2003_10_17-COVID-19%20Case%20Study%20-%20Analysis%2C%20Viz%20%26%20Comparisons%20_%20Kaggle.png)
 
 <b>To get full insights and visualization see the notebook on KAGGLE [View Latest Version Notebook](https://www.kaggle.com/tarunkr/covid-19-case-study-analysis-viz-comparisons) </b>
+
+--------------------
+[![BuyMeCoffe](https://cdn-images-1.medium.com/max/800/1*Dpw8-hNGI2fDmosV4E8DVQ.png)](https://www.buymeacoffee.com/tarunkumar)
+
 # Authors
 Tarun Kumar
 
